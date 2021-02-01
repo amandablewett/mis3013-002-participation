@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace VariableInputConversionExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
