@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableInputConversionExample", "VariableInputConversionExample\VariableInputConversionExample.csproj", "{6F0C92BE-0F14-4612-821D-409765EE209E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{39C5CE92-568C-439A-A0A0-C62101D8E72C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{39C5CE92-568C-439A-A0A0-C62101D8E72C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{D37DE6CB-11DA-4A17-8164-2F4CE0F2A335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{39C5CE92-568C-439A-A0A0-C62101D8E72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39C5CE92-568C-439A-A0A0-C62101D8E72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39C5CE92-568C-439A-A0A0-C62101D8E72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37DE6CB-11DA-4A17-8164-2F4CE0F2A335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37DE6CB-11DA-4A17-8164-2F4CE0F2A335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37DE6CB-11DA-4A17-8164-2F4CE0F2A335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37DE6CB-11DA-4A17-8164-2F4CE0F2A335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
