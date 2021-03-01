@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{D37DE6CB-11DA-4A17-8164-2F4CE0F2A335}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_For2", "Loops_For2\Loops_For2.csproj", "{C20A69DE-A8A4-4696-87E6-DDD4F86A0C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_For2", "Loops_For2\Loops_For2.csproj", "{C20A69DE-A8A4-4696-87E6-DDD4F86A0C21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Import", "File_Import\File_Import.csproj", "{573328AB-A738-4482-BDB2-7D738A71BD1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "File_Import", "File_Import\File_Import.csproj", "{573328AB-A738-4482-BDB2-7D738A71BD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{176F1366-CD82-4AE7-B755-5635EAAACB1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{573328AB-A738-4482-BDB2-7D738A71BD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{573328AB-A738-4482-BDB2-7D738A71BD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{573328AB-A738-4482-BDB2-7D738A71BD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176F1366-CD82-4AE7-B755-5635EAAACB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176F1366-CD82-4AE7-B755-5635EAAACB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176F1366-CD82-4AE7-B755-5635EAAACB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176F1366-CD82-4AE7-B755-5635EAAACB1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
