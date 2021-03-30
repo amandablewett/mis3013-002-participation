@@ -27,17 +27,17 @@ namespace P7_csvFile
                 {
                     if (item[9] == "2003")
                     {
-                        yearsales[0] += Convert.ToInt32(item[4]);
+                        yearsales[0] += Convert.ToDouble(item[4]);
                     }
                     if(item[9] == "2004")
                     {
-                        yearsales[1] += Convert.ToInt32(item[4]);
+                        yearsales[1] += Convert.ToDouble(item[4]);
                     }
                     else
                     {
-                        yearsales[2] += Convert.ToInt32(item[4]);
+                        yearsales[2] += Convert.ToDouble(item[4]);
                     }
-                    monthsales[Convert.ToInt32(item[8]) - 1] += Convert.ToInt32(item[4]);
+                    monthsales[Convert.ToInt32(item[8]) - 1] += Convert.ToDouble(item[4]);
                 }
             }
 
@@ -58,7 +58,7 @@ namespace P7_csvFile
 
         }
         
-
+        /*
         private static void count (List<string[]> each)
         {
             double[] sales = new double[13];
@@ -75,5 +75,6 @@ namespace P7_csvFile
             }
             //return sales;
         }
+        */
     }
 }
