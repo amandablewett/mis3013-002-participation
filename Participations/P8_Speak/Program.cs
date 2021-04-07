@@ -18,9 +18,10 @@ namespace P9_Speak
             sounds.Add("dog", "Bark");
             sounds.Add("cat", "Meow");
             sounds.Add("bear", "Grrr");
-            sounds.Add("snake", "Sssss");
+            sounds.Add("monkey", "OOOO OOOO OOOO");
             sounds.Add("lion", "Roar");
             sounds.Add("mouse", "Squeak");
+            sounds.Add("goat", "Baaaa");
             if (sounds.ContainsKey(animal))
             {
                 return sounds[animal];
