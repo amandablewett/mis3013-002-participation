@@ -20,7 +20,12 @@ namespace Classes_Example
 
         public double CalculateArea()
         {
-            return Math.PI * Radius * Radius;
+            return Math.PI * Math.Pow(Radius,2);
+        }
+
+        public double CalculatePerimeter()
+        {
+            return Math.PI * 2 * Radius;
         }
     }
 }
