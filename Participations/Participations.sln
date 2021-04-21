@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10_ClassToy", "P.10_Classe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11_ToyBox", "P11_ToyBox\P11_ToyBox.csproj", "{B0A300F7-9AA9-41BB-9F03-F66BE1885CF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_Cereal", "P12_Cereal\P12_Cereal.csproj", "{546321CF-8569-4423-94E5-48599D60DA75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B0A300F7-9AA9-41BB-9F03-F66BE1885CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A300F7-9AA9-41BB-9F03-F66BE1885CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A300F7-9AA9-41BB-9F03-F66BE1885CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546321CF-8569-4423-94E5-48599D60DA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546321CF-8569-4423-94E5-48599D60DA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546321CF-8569-4423-94E5-48599D60DA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546321CF-8569-4423-94E5-48599D60DA75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
